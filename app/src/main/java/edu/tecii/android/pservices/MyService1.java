@@ -5,10 +5,6 @@ import android.content.Intent;
 import android.os.IBinder;
 import android.util.Log;
 
-/**
- * Created by Juan Chacon Holguin on 19/11/2016.
- */
-
 public class MyService1 extends Service {
 
     @Override
